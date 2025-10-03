@@ -1,7 +1,12 @@
 # Visualisasi data 
 pada visualisasi data yang interaktif saya mengubah outputnya untuk merender di browser menggunakan
+<br>
 `fig.show(renderer='browser')`
+<br>
 karena terdapat beberapa library yang eror
+
+Contoh Render Visualisasi di Website:
+![Render Browser](example.png)
 
 # ANGGOTA
 - Ahmad Nabil Fauzan Abdillah (XII SIJA 1)
